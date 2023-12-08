@@ -1,0 +1,14 @@
+C:\Users\shaba\source\repos\RPSApp\RPSApp\bin\Release\net8.0\RPSApp.exe
+C:\Users\shaba\source\repos\RPSApp\RPSApp\bin\Release\net8.0\RPSApp.deps.json
+C:\Users\shaba\source\repos\RPSApp\RPSApp\bin\Release\net8.0\RPSApp.runtimeconfig.json
+C:\Users\shaba\source\repos\RPSApp\RPSApp\bin\Release\net8.0\RPSApp.dll
+C:\Users\shaba\source\repos\RPSApp\RPSApp\bin\Release\net8.0\RPSApp.pdb
+C:\Users\shaba\source\repos\RPSApp\RPSApp\obj\Release\net8.0\RPSApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shaba\source\repos\RPSApp\RPSApp\obj\Release\net8.0\RPSApp.AssemblyInfoInputs.cache
+C:\Users\shaba\source\repos\RPSApp\RPSApp\obj\Release\net8.0\RPSApp.AssemblyInfo.cs
+C:\Users\shaba\source\repos\RPSApp\RPSApp\obj\Release\net8.0\RPSApp.csproj.CoreCompileInputs.cache
+C:\Users\shaba\source\repos\RPSApp\RPSApp\obj\Release\net8.0\RPSApp.dll
+C:\Users\shaba\source\repos\RPSApp\RPSApp\obj\Release\net8.0\refint\RPSApp.dll
+C:\Users\shaba\source\repos\RPSApp\RPSApp\obj\Release\net8.0\RPSApp.pdb
+C:\Users\shaba\source\repos\RPSApp\RPSApp\obj\Release\net8.0\RPSApp.genruntimeconfig.cache
+C:\Users\shaba\source\repos\RPSApp\RPSApp\obj\Release\net8.0\ref\RPSApp.dll

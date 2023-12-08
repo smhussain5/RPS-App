@@ -1,0 +1,5 @@
+C:\Users\shaba\source\repos\RPSApp\RPSApp\bin\Release\net8.0\publish\RPSApp.exe
+C:\Users\shaba\source\repos\RPSApp\RPSApp\bin\Release\net8.0\publish\RPSApp.dll
+C:\Users\shaba\source\repos\RPSApp\RPSApp\bin\Release\net8.0\publish\RPSApp.deps.json
+C:\Users\shaba\source\repos\RPSApp\RPSApp\bin\Release\net8.0\publish\RPSApp.runtimeconfig.json
+C:\Users\shaba\source\repos\RPSApp\RPSApp\bin\Release\net8.0\publish\RPSApp.pdb
